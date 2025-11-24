@@ -42,18 +42,18 @@
 - Classification Report:
               precision    recall  f1-score   support
 
-     notflip       1.00      0.83      0.91       290
-        flip       0.86      1.00      0.93       307
+     notflip       1.00      0.83      0.91       290  
+        flip       0.86      1.00      0.93       307  
 
-    accuracy                           0.92       597
-   macro avg       0.93      0.92      0.92       597
-weighted avg       0.93      0.92      0.92       597
+    accuracy                           0.92       597  
+   macro avg       0.93      0.92      0.92       597  
+weighted avg       0.93      0.92      0.92       597  
 
 ### ViT
 - ViT performed extremely well on the dataset, achieving the following results on test set:
 - Test Accuracy: 0.9966
 
-- - Confusion Matrix:
+- Confusion Matrix:
 [[288  2]
  [  0 307]]
 
