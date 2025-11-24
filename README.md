@@ -58,11 +58,11 @@ weighted avg       0.93      0.92      0.92       597
  [  0 307]]
 
 - Classification Report:
-              precision    recall  f1-score   support
+              precision    recall  f1-score   support  
 
-     notflip       1.00      0.99      1.00       290
-        flip       0.99      1.00      1.00       307
+     notflip       1.00      0.99      1.00       290  
+        flip       0.99      1.00      1.00       307  
 
-    accuracy                           1.00       597
-   macro avg       1.00      1.00      1.00       597
-weighted avg       1.00      1.00      1.00       597
+    accuracy                           1.00       597  
+   macro avg       1.00      1.00      1.00       597  
+weighted avg       1.00      1.00      1.00       597  
