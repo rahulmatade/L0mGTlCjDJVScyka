@@ -33,7 +33,7 @@
 
 ### CNN
 - CNN performed well on the dataset, achieving the following results on the test set:
-- Test Accuracy: 0.9179229480737019
+- Test Accuracy: 0.9179
 
 - Confusion Matrix:
 [[242  48]
